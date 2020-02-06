@@ -17,4 +17,4 @@ The output from VideoDetect.py can be found in [data/entity_videos.csv](data/ent
 For doing the analytics, I use 2 different scripts:
 [urls.py](urls.py) extracts the actual urls to prep for the [youtube analytics notebook](youtubeAnalytics.ipynb). The youtube analytics notebook uses the youtube API to extract meta data about each video.
 
-for more info, check out this [summary](summary.nb.html).
+for more info, check out this [summary](summary.nb.html) (will have to download to view).
